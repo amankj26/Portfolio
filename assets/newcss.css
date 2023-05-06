@@ -703,6 +703,7 @@ img {
 }
 .portfolio__img{
   width: 265px;
+  border: 1px solid black;
   border-radius: .5rem;
   justify-self: center;
 }
